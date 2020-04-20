@@ -1,0 +1,52 @@
+body {
+    background-color: blue;
+}
+
+#cabecalho {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#menu {
+    display: flex;
+    justify-content: space-between;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: unset;
+    color: darkblue;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+
+}
+
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#main {
+    background-color: lightgreen;
+    border: black 1px solid;
+}
+
+#contato {
+    margin: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10 px;
+    text-align: justify;
+    
+
+}
+
+#form {
+    display: flex;
+    padding: 10 px;
+    margin: 10 px;
+}
+
+a {
+    color: darkblue;
+    text-decoration: unset;
+}
+
